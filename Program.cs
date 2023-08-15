@@ -75,3 +75,7 @@ namespace Patterns20230218_Strategy
     }
 }
 
+//Managing expenses for income 10 000,00 USD: Expenses are 2 000,00 USD
+//Managing expenses for income 50 000,00 USD: Expenses are 20 000,00 USD
+//Managing expenses for income 80 000,00 USD: Expenses are 48 000,00 USD
+//Press any key to continue . . .
